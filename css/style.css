@@ -1,0 +1,134 @@
+/* BREWLAB basic styles */
+body {
+  margin: 0;
+  background-color: #f1f6fc;
+  background-image: url("../images/coffee-pattern.svg");
+  background-repeat: repeat;
+  color: #26364d;
+  font-family: Arial, sans-serif;
+}
+
+.top-line {
+  padding: 8px;
+  background-color: #1558b8;
+  color: #ffe16b;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1050px;
+  margin: auto;
+  padding: 15px 20px;
+  background-color: white;
+}
+
+.logo { width: 380px; }
+
+nav { display: flex; gap: 24px; }
+nav a { color: #26364d; font-size: 14px; text-decoration: none; }
+nav a:hover, nav a.active { color: #1558b8; font-weight: bold; }
+
+main {
+  max-width: 1050px;
+  min-height: 450px;
+  margin: auto;
+  padding: 25px 20px;
+  background-color: white;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  background-color: #eaf2ff;
+}
+
+.intro-text { flex: 1; padding: 35px; }
+.intro > a { flex: 1.2; }
+.small-title { color: #1558b8; font-size: 12px; font-weight: bold; letter-spacing: 1px; }
+h1, h2 { color: #163f78; }
+.intro h1, .page-heading h1 { font-size: 38px; }
+.intro-text > p:not(.small-title) { color: #586b83; line-height: 1.6; }
+.intro a, main a { color: #1558b8; }
+
+.intro-image { display: block; width: 100%; height: 300px; object-fit: cover; }
+.section-title { display: flex; align-items: end; justify-content: space-between; margin: 35px 0 18px; }
+.section-title h2 { margin: 4px 0 0; }
+.section-title a { color: #1558b8; }
+.item-list { display: flex; gap: 18px; }
+.item-card { flex: 1; padding: 10px; border: 1px solid #d6e1f0; background-color: white; }
+.item-card img { width: 100%; height: 190px; object-fit: cover; }
+.item-card h3 { margin: 12px 0 4px; color: #26364d; font-size: 17px; }
+.item-card p { margin: 0; color: #1558b8; font-weight: bold; }
+.about-link { margin: 30px 0 10px; text-align: center; }
+
+.page-heading { padding: 20px 0; }
+.page-heading h1 { margin: 5px 0; }
+.page-heading p { color: #586b83; }
+.about-section { display: flex; align-items: flex-start; gap: 25px; margin: 20px 0 35px; }
+.about-photo { width: 48%; height: 320px; object-fit: cover; }
+.about-section h2 { margin-top: 0; }
+.about-section h3 { margin-bottom: 5px; color: #1558b8; }
+.about-section p { line-height: 1.6; }
+
+table { width: 100%; margin: 12px 0 28px; border-collapse: collapse; }
+th, td { padding: 10px; border: 1px solid #d6e1f0; text-align: left; }
+th { background-color: #1558b8; color: white; }
+td:last-child { color: #1558b8; font-weight: bold; white-space: nowrap; }
+.menu-note { color: #586b83; font-size: 13px; }
+
+form { max-width: 650px; padding: 20px; background-color: #eaf2ff; }
+form > label, .form-label { display: block; margin: 12px 0 5px; color: #26364d; font-weight: bold; }
+input:not([type=radio]):not([type=checkbox]), select, textarea {
+  width: 100%;
+  max-width: 100%;
+  padding: 9px;
+  border: 1px solid #b8cbe5;
+  background-color: white;
+  font: inherit;
+}
+textarea { resize: vertical; }
+.radio-row { display: flex; gap: 20px; }
+.radio-row label, .check-row { color: #455970; }
+.radio-row input, .check-row input { accent-color: #1558b8; }
+.check-row { display: block; margin: 15px 0; }
+button { padding: 0; border: 0; background: none; color: #1558b8; font-size: 15px; font-weight: bold; text-decoration: underline; cursor: pointer; }
+
+footer {
+  padding: 20px;
+  background-color: #173b72;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+}
+footer p { margin: 5px; }
+footer a { color: #ffe16b; }
+
+@media (max-width: 850px) {
+  header { flex-wrap: wrap; gap: 12px; }
+  .logo { width: 310px; }
+  nav { gap: 17px; }
+  .item-card img { height: 160px; }
+}
+
+@media (max-width: 600px) {
+  header { flex-direction: column; }
+  .logo { width: 280px; }
+  nav { flex-wrap: wrap; justify-content: center; gap: 12px 18px; }
+  main { padding: 18px 12px; }
+  .intro, .about-section { flex-direction: column; }
+  .intro-text { padding: 25px; }
+  .intro h1, .page-heading h1 { font-size: 30px; }
+  .intro-image { height: 220px; }
+  .item-list { flex-direction: column; }
+  .item-card img { height: 220px; }
+  .about-photo { width: 100%; height: 230px; }
+  table { font-size: 12px; }
+  th, td { padding: 7px 5px; }
+  form { padding: 14px; }
+}

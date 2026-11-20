@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contact - BREWLAB</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="top-line">GOOD COFFEE. GOOD MOOD. EVERY DAY.</div>
+    <header>
+      <a href="index.html"><img class="logo" src="images/brewlab-logo.svg" alt="BREWLAB Coffee, Food, Experiments"></a>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="menu.html">Menu</a>
+        <a class="active" href="contact.html">Contact</a>
+      </nav>
+    </header>
+    <main>
+      <section class="page-heading">
+        <p class="small-title">GET IN TOUCH</p>
+        <h1>Contact Us</h1>
+        <p>Have a question about BREWLAB? Send us a message.</p>
+      </section>
+      <form onsubmit="return showMessage()">
+        <label for="name">Contact person:</label>
+        <input id="name" name="name" type="text" required>
+
+        <label for="email">Email:</label>
+        <input id="email" name="email" type="email" required>
+
+        <label for="phone">Phone:</label>
+        <input id="phone" name="phone" type="tel">
+
+        <label for="date">Preferred visit date:</label>
+        <input id="date" name="date" type="date">
+
+        <label for="time">Preferred visit time:</label>
+        <input id="time" name="time" type="time">
+
+        <label for="topic">Enquiry topic:</label>
+        <select id="topic" name="topic">
+          <option>General question</option>
+          <option>Menu question</option>
+          <option>Group booking</option>
+        </select>
+
+        <label for="password">Password input </label>
+        <input id="password" name="password" type="password">
+
+        <p class="form-label">Preferred reply method:</p>
+        <div class="radio-row">
+          <label><input name="reply" type="radio" value="email" checked> Email</label>
+          <label><input name="reply" type="radio" value="phone"> Phone</label>
+        </div>
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" rows="5" required></textarea>
+
+        <label class="check-row"><input name="demo" type="checkbox" required> I agree to the terms and conditions..</label>
+        <button type="submit">Send Message</button>
+    </main>
+    <footer>
+      <p>BREWLAB is a student coffee shop project.</p>
+      <a href="https://www.gigicoffee.com/" target="_blank" rel="noopener">Gigi Coffee website</a>
+    </footer>
+    <script src="js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">BREWLAB Coffee, Food, Experiments</title>
+  <g fill="none" stroke="#1558b8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M49 39c-12-12 10-17 1-28M77 39c-12-12 10-17 1-28" stroke-width="6"/>
+    <path d="M42 48h45l-5 17 25 48c4 8-1 14-10 14H29c-9 0-14-6-10-14l25-48z" stroke-width="6"/>
+    <path d="M35 96c12-4 17 5 28 2s17-8 28-5l10 18H28z" fill="#ffe16b" stroke="none"/>
+    <path d="M48 63h33M48 75h25" stroke-width="4"/>
+  </g>
+  <text x="126" y="91" fill="#173b72" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="800" letter-spacing="1">BREWLAB</text>
+  <text x="130" y="119" fill="#1558b8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">COFFEE  •  FOOD  •  EXPERIMENTS</text>
+</svg>

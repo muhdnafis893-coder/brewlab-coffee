@@ -1,0 +1,108 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /Regular 4 0 R /Bold 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 4828 >>
+stream
+0.08 0.30 0.63 rg 0 730 595 112 re f
+BT /Bold 27 Tf 1 1 1 rg 1 0 0 1 48 795 Tm (BREWLAB) Tj ET
+BT /Bold 9 Tf 1 0.88 0.42 rg 1 0 0 1 49 775 Tm (COFFEE  -  FOOD  -  EXPERIMENTS) Tj ET
+BT /Bold 11 Tf 1 1 1 rg 1 0 0 1 48 748 Tm (OUR MENU) Tj ET
+BT /Bold 18 Tf 0.08 0.30 0.63 rg 1 0 0 1 48 700 Tm (Coffee) Tj ET
+BT /Bold 9 Tf 0.35 0.40 0.48 rg 1 0 0 1 48 672 Tm (ITEM) Tj ET
+BT /Bold 9 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 672 Tm (DESCRIPTION) Tj ET
+BT /Bold 9 Tf 0.35 0.40 0.48 rg 1 0 0 1 493 672 Tm (PRICE) Tj ET
+0.78 0.84 0.91 RG 1 w 48 665 m 547 665 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 642 Tm (Espresso) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 642 Tm (Bold coffee shot) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 642 Tm (RM 7) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 633 m 547 633 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 615 Tm (Long Black) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 615 Tm (Espresso with hot water) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 615 Tm (RM 9) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 606 m 547 606 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 588 Tm (Flat White) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 588 Tm (Coffee with steamed milk) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 588 Tm (RM 12) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 579 m 547 579 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 561 Tm (Caramel Latte) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 561 Tm (Latte with caramel) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 561 Tm (RM 15) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 552 m 547 552 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 534 Tm (Mocha) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 534 Tm (Coffee and chocolate) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 534 Tm (RM 14) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 525 m 547 525 l S
+BT /Bold 18 Tf 0.08 0.30 0.63 rg 1 0 0 1 48 492 Tm (Cold Drinks) Tj ET
+BT /Bold 9 Tf 0.35 0.40 0.48 rg 1 0 0 1 48 464 Tm (ITEM) Tj ET
+BT /Bold 9 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 464 Tm (DESCRIPTION) Tj ET
+BT /Bold 9 Tf 0.35 0.40 0.48 rg 1 0 0 1 493 464 Tm (PRICE) Tj ET
+0.78 0.84 0.91 RG 1 w 48 457 m 547 457 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 434 Tm (Matcha Milk) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 434 Tm (Matcha and milk) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 434 Tm (RM 14) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 425 m 547 425 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 407 Tm (Iced Coffee) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 407 Tm (Cold coffee with milk and ice) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 407 Tm (RM 13) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 398 m 547 398 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 380 Tm (Chocolate Shake) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 380 Tm (Cold chocolate drink) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 380 Tm (RM 13) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 371 m 547 371 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 353 Tm (Strawberry Fizz) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 353 Tm (Strawberry soda) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 353 Tm (RM 12) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 344 m 547 344 l S
+BT /Bold 18 Tf 0.08 0.30 0.63 rg 1 0 0 1 48 316 Tm (Food) Tj ET
+BT /Bold 9 Tf 0.35 0.40 0.48 rg 1 0 0 1 48 288 Tm (ITEM) Tj ET
+BT /Bold 9 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 288 Tm (DESCRIPTION) Tj ET
+BT /Bold 9 Tf 0.35 0.40 0.48 rg 1 0 0 1 493 288 Tm (PRICE) Tj ET
+0.78 0.84 0.91 RG 1 w 48 281 m 547 281 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 258 Tm (Butter Croissant) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 258 Tm (Flaky pastry) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 258 Tm (RM 9) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 249 m 547 249 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 231 Tm (Chicken Pesto Toastie) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 231 Tm (Chicken, pesto and toasted bread) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 231 Tm (RM 18) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 222 m 547 222 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 204 Tm (Creamy Mushroom Pasta) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 204 Tm (Pasta with mushroom sauce) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 204 Tm (RM 22) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 195 m 547 195 l S
+BT /Bold 11 Tf 0.13 0.20 0.30 rg 1 0 0 1 48 177 Tm (Maple Waffle) Tj ET
+BT /Regular 10 Tf 0.35 0.40 0.48 rg 1 0 0 1 205 177 Tm (Waffle with maple syrup) Tj ET
+BT /Bold 11 Tf 0.08 0.30 0.63 rg 1 0 0 1 493 177 Tm (RM 15) Tj ET
+0.89 0.92 0.96 RG 0.5 w 48 168 m 547 168 l S
+0.78 0.84 0.91 RG 1 w 48 69 m 547 69 l S
+BT /Regular 9 Tf 0.40 0.44 0.50 rg 1 0 0 1 48 51 Tm (BREWLAB is a student coffee shop project. Menu prices are examples.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000258 00000 n 
+0000000328 00000 n 
+0000000403 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5283
+%%EOF
